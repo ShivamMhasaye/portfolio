@@ -1,0 +1,79 @@
+[
+
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring",
+        "icon": "https://img.icons8.com/color/48/spring-logo.png"
+    },
+
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/office/32/000000/spring-logo.png"
+    },
+
+    {
+        "name": "Hibernate",
+        "icon": "https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"
+    },
+
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/color/48/react-native.png"
+    },
+
+    {
+        "name": "C#",
+        "icon": "https://img.icons8.com/color/48/c-sharp-logo.png"
+    },
+
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+
+    {
+        "name": "Asp.net",
+        "icon": "https://img.icons8.com/color/48/net-framework.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+   
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/fluency/48/microsoft-excel-2019.png"
+   },
+   {
+        "name":"PowerBI",
+        "icon":"https://img.icons8.com/color/48/power-bi.png" 
+   }      
+]
