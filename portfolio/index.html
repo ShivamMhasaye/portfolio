@@ -349,18 +349,19 @@
         </div>
         <div class="form-box">
             <h2 class="heading"><i class="fas fa-headset"></i> Get in <span>Touch</span></h2>
-            <form action="#">
+            <form id="contactForm" action="mailto:your-email@gmail.com" method="POST" enctype="text/plain">
                 <div class="input-box">
-                    <input type="text" placeholder="Name" required>
-                    <input type="email"  placeholder="Email Address" required>
+                    <input type="text" name="name" placeholder="Name" required>
+                    <input type="email" name="email" placeholder="Email Address" required>
                 </div>
                 <div class="input-box">
-                    <input type="number" placeholder="Mobile number" required>
-                    <input type="text" placeholder="Email Subject" required>
+                    <input type="tel" name="phone" placeholder="Mobile number" required>
+                    <input type="text" name="subject" placeholder="Email Subject" required>
                 </div>
-                <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+                <textarea name="message" cols="30" rows="10" placeholder="Your Message"></textarea>
                 <input type="submit" value="Send Message" class="btn">
             </form>
+            
         </div>
     </div>
 </section>
